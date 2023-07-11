@@ -147,3 +147,20 @@ header{
     font-size: 48px;
     font-weight: 800;
 }
+.subscribe> .input{
+    border-radius: 8px;
+    background: #FFF;
+    height: 64px;
+    width: 700px;
+}
+.subscribe> .btn2{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    padding: 20px 150px 20px 60px;
+    margin:  5px 500px;
+}
